@@ -1,0 +1,21 @@
+.span{
+    margin: 0 30px;
+    font-size: 1.3rem;
+    cursor: pointer;
+    color: white;
+}
+.span:hover{
+    color: red;
+
+}
+
+.header{
+    margin: 0 2.5rem;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+.header-icon{
+    width: 80px;
+    cursor: pointer;
+}
